@@ -3,5 +3,8 @@
   "HomeTTC": "off",
   "HomeRPFB": "off",
   "TDSTikTok": "on",
-  "TDSFacebook": "off"
+  "TDSFacebook": "off",
+  "TikTokLike": "on",
+  "TikTokFollow": "on",
+  "TikTokComments": "off"
 }
