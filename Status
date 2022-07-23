@@ -5,7 +5,9 @@
   "ToolsPC": "off",
   "Encryption": "off",
   "TDSTikTok": "on",
-  "TDSFacebook": "off",
+  "TDSFacebook": "on",
+  "TDSFBLIKE": "off",
+  "TDSFBFOLLOW": "on",
   "TikTokLike": "on",
   "TikTokFollow": "on",
   "TikTokComments": "off"
