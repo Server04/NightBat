@@ -8,6 +8,8 @@
   "TDSFacebook": "on",
   "TDSFBLIKE": "off",
   "TDSFBFOLLOW": "on",
+  "TDSFBComment": "off",
+  "TDSFBShare": "off",
   "TikTokLike": "on",
   "TikTokFollow": "on",
   "TikTokComments": "off"
