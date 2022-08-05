@@ -13,5 +13,6 @@
   "TikTokLike": "on",
   "TikTokFollow": "on",
   "TikTokComments": "off",
-  "TIKTOK": "off"
+  "TIKTOK": "off",
+  "TIKTOKPW": "off"
 }
